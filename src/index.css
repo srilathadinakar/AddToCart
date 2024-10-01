@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*body{
+    margin: 0 auto;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1024px;
+}
+.navbar{
+    background-color: cornflowerblue;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-wrapper{   
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 30px;
+    position: relative;
+    flex-wrap: wrap;
+}
+.card {
+
+    border-radius: 10px;
+    position: relative;
+}
+.card img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}*/
