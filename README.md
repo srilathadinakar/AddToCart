@@ -1,8 +1,9 @@
-# React + Vite
+Add To Cart 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Created this Ecommerce site using useState, useEffect methods.
 
-Currently, two official plugins are available:
+Initially get the product details using fetch..
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Implemented the Cart count details..
+
+shown the updated cart list in a modal.. when clicking cart button in navbar we can see the modal..
